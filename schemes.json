@@ -1,0 +1,23 @@
+[
+  {
+    "title": "PM Kisan Yojana",
+    "description": "Income support to all landholding farmers.",
+    "eligibility": "Small and marginal farmers",
+    "link": "https://pmkisan.gov.in/",
+    "states": ["All States"]
+  },
+  {
+    "title": "Tamil Nadu Free Laptop Scheme",
+    "description": "Free laptops for students in TN govt schools/colleges.",
+    "eligibility": "Class 10–12 students, college students in Tamil Nadu.",
+    "link": "https://tn.gov.in",
+    "states": ["Tamil Nadu"]
+  },
+  {
+    "title": "Yuva Nidhi Scheme",
+    "description": "Unemployment assistance for graduates in Karnataka.",
+    "eligibility": "Graduates and diploma holders in Karnataka.",
+    "link": "https://sevasindhu.karnataka.gov.in",
+    "states": ["Karnataka"]
+  }
+]
