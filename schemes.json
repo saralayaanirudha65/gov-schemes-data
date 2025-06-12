@@ -1,23 +1,128 @@
 [
   {
     "title": "PM Kisan Yojana",
-    "description": "Income support to all landholding farmers.",
-    "eligibility": "Small and marginal farmers",
+    "description": "Income support of ₹6,000 per year to small and marginal farmers.",
+    "eligibility": "All small and marginal farmers",
     "link": "https://pmkisan.gov.in/",
     "states": ["All States"]
   },
   {
-    "title": "Tamil Nadu Free Laptop Scheme",
-    "description": "Free laptops for students in TN govt schools/colleges.",
-    "eligibility": "Class 10–12 students, college students in Tamil Nadu.",
-    "link": "https://tn.gov.in",
-    "states": ["Tamil Nadu"]
+    "title": "Ayushman Bharat – PMJAY",
+    "description": "Health insurance coverage up to ₹5 lakh per family per year.",
+    "eligibility": "Families identified in SECC database",
+    "link": "https://pmjay.gov.in/",
+    "states": ["All States"]
+  },
+  {
+    "title": "Pradhan Mantri Awas Yojana",
+    "description": "Affordable housing with interest subsidy for urban and rural poor.",
+    "eligibility": "Low-income families without pucca houses",
+    "link": "https://pmaymis.gov.in/",
+    "states": ["All States"]
+  },
+  {
+    "title": "Pradhan Mantri Ujjwala Yojana",
+    "description": "Free LPG connections to women from BPL households.",
+    "eligibility": "Women aged 18+ in BPL families",
+    "link": "https://www.pmuy.gov.in/",
+    "states": ["All States"]
+  },
+  {
+    "title": "Startup India Scheme",
+    "description": "Support for startups with tax exemption and funding opportunities.",
+    "eligibility": "Registered DPIIT-recognized startups",
+    "link": "https://www.startupindia.gov.in/",
+    "states": ["All States"]
   },
   {
     "title": "Yuva Nidhi Scheme",
-    "description": "Unemployment assistance for graduates in Karnataka.",
-    "eligibility": "Graduates and diploma holders in Karnataka.",
+    "description": "Monthly unemployment allowance for graduates in Karnataka.",
+    "eligibility": "Graduates and diploma holders in Karnataka",
     "link": "https://sevasindhu.karnataka.gov.in",
     "states": ["Karnataka"]
+  },
+  {
+    "title": "Rythu Bandhu Scheme",
+    "description": "Seasonal investment support to farmers in Telangana.",
+    "eligibility": "All farmers in Telangana",
+    "link": "https://rythubandhu.telangana.gov.in/",
+    "states": ["Telangana"]
+  },
+  {
+    "title": "TN Free Laptop Scheme",
+    "description": "Free laptops for Class 10–12 and first-year college students in Tamil Nadu.",
+    "eligibility": "Students in government/aided schools or colleges",
+    "link": "https://www.tn.gov.in",
+    "states": ["Tamil Nadu"]
+  },
+  {
+    "title": "Delhi Ladli Scheme",
+    "description": "Incentivizes girl child welfare and education in Delhi.",
+    "eligibility": "Girl children born in Delhi with correct documentation",
+    "link": "https://www.wcddel.in",
+    "states": ["Delhi"]
+  },
+  {
+    "title": "Mukhyamantri Amrutum Yojana",
+    "description": "Health coverage for BPL families in Gujarat.",
+    "eligibility": "BPL families in Gujarat",
+    "link": "https://www.magujarat.com/",
+    "states": ["Gujarat"]
+  },
+  {
+    "title": "Subhadra Yojana",
+    "description": "Cash incentives for married women in Odisha.",
+    "eligibility": "Odisha women married and residing in-state",
+    "link": "https://odisha.gov.in/",
+    "states": ["Odisha"]
+  },
+  {
+    "title": "Aasara Pension Scheme",
+    "description": "Monthly pensions for senior citizens, widows, disabled in Telangana.",
+    "eligibility": "Vulnerable individuals in Telangana",
+    "link": "https://aasara.telangana.gov.in/",
+    "states": ["Telangana"]
+  },
+  {
+    "title": "Rashtriya Krishi Vikas Yojana",
+    "description": "Support for farmers through subsidies for inputs and infrastructure.",
+    "eligibility": "Farmers and allied workers",
+    "link": "https://rkvy.nic.in/",
+    "states": ["All States"]
+  },
+  {
+    "title": "Pradhan Mantri Mudra Yojana",
+    "description": "Loans up to ₹10 lakh for non-corporate small/micro enterprises.",
+    "eligibility": "Small entrepreneurs",
+    "link": "https://www.mudra.org.in/",
+    "states": ["All States"]
+  },
+  {
+    "title": "Beti Bachao Beti Padhao",
+    "description": "Promotes welfare and education for the girl child.",
+    "eligibility": "Girl children under the scheme's guidelines",
+    "link": "https://betibachao.gov.in/",
+    "states": ["All States"]
+  },
+  {
+    "title": "PM Suraksha Bima Yojana",
+    "description": "Accident insurance of ₹2 lakh for just ₹12/year.",
+    "eligibility": "Bank-account-holders aged 18–70",
+    "link": "https://www.pmjay.gov.in/",
+    "states": ["All States"]
+  },
+  {
+    "title": "Atal Pension Yojana",
+    "description": "Guaranteed monthly pension for unorganized sector workers.",
+    "eligibility": "Ages 18–40 in the unorganized sector",
+    "link": "https://www.npscra.nsdl.co.in/",
+    "states": ["All States"]
+  },
+  {
+    "title": "Pradhan Mantri Fasal Bima Yojana",
+    "description": "Crop insurance premium support for farmers.",
+    "eligibility": "All farmers across India",
+    "link": "https://pmfby.gov.in/",
+    "states": ["All States"]
   }
 ]
